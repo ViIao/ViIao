@@ -1,4 +1,4 @@
-### Not knowing it was impossible, he went there and did it. 🏆
+### I'm not the best at everything I know, but I try to be at everything I do.
 
 <div>
   <a href="https://github.com/roroch4n
