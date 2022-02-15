@@ -1,4 +1,4 @@
-### I'm not the best at everything I know, but I try to be at everything I do.
+### 棵樹要觸及天堂，它的根必須觸及地獄
 
 <div>
   <a href="https://github.com/roroch4n
