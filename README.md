@@ -1,5 +1,3 @@
-### Get rich or die trying
-
 <div>
   <a href="https://github.com/roroch4n
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DustScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
