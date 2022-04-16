@@ -1,7 +1,6 @@
 ![]()
 <br>
-<div style='text-align: center;' align='center'></div>
-  [![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/201177991651393536.png)](https://discord.com/users/201177991651393536/)
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/201177991651393536.png)](https://discord.com/users/201177991651393536/)
 <br>
 <div> 
   <div style='text-align: center;' align='center'>
