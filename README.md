@@ -8,8 +8,9 @@
     <summary> Stats </summary>
     <p style="text-align: center;"align="center"><a href="https://github.com/evilkaue"><img align="center" src="https://github-readme-stats.vercel.app/api?username=evilkaue&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="stats" /></a></p>
 </div>
+![]()
 <br>
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/348321064738095104.png)](https://discord.com/users/348321064738095104/)
+ [![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/348321064738095104.png)](https://discord.com/users/348321064738095104/)
 <br>
 <div>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
