@@ -1,6 +1,6 @@
 ![]()
 <br>
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/348321064738095104.png)](https://discord.com/users/348321064738095104/)
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/348321064738095104.png)](https://discord.com/users/201177991651393536/)
 <br>
 <div> 
   <a href="https://www.youtube.com/c/vilão7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
