@@ -3,7 +3,7 @@
  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/201177991651393536.png)](https://discord.com/users/201177991651393536/)
 <br>
 <div> 
-  <details style='text-align: center;' align='center'>
+  <div style='text-align: center;' align='center'>
     <a href="https://www.youtube.com/c/vilão7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/vilaoxyz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/users/201177991651393536" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
